@@ -4,6 +4,10 @@
 
 This is a custom Unix shell implemented in C. It supports various built-in commands, job control, input/output redirection, pipes, tab completion, history tracking, and interactive line editing. The shell provides an intuitive interface for command execution with additional features commonly found in modern shells.
 
+## Requirements
+
+Linux terminal is required to run this program.
+
 ## Features
 
 ### 1. **Command Execution**
@@ -98,4 +102,4 @@ This project is open-source and available for modification and distribution.
 
 ## Author
 
-- Developed as part of an academic assigment in C programming.
+- Developed as part of an academic assigment.
